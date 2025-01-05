@@ -11,7 +11,7 @@ Add this to your Cargo.toml:
 
 ```toml
 [dependencies]
-wut_span = { version = "0.1.0", git = "https://github.com/Refr900/wut_span"}
+wut_span = { version = "0.1.0", git = "https://github.com/Refr900/wut_span.git"}
 ```
 
 Then, you can use it:
