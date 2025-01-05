@@ -1,0 +1,8 @@
+[package]
+name = "wut_span"
+version = "0.1.0"
+edition = "2021"
+description = "A small crate for counting rows and columns in source text. And also to highlight part of the text around a specific location"
+license = "MIT"
+repository = "https://github.com/Refr900/wut_span"
+readme = "README.md"
