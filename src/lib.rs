@@ -1,6 +1,3 @@
-//! > [!WARNING]
-//! > The project was created solely for educational purposes.
-//! 
 //! # Wut Span
 //! 
 //! A small crate for counting rows and columns in source text. And also to highlight part of the text around a specific location(in development, Oopsie).
